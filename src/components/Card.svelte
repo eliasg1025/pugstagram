@@ -41,7 +41,7 @@
             <h3>{username}</h3>
             <span>{postComment}</span>
         </div>
-        <Comments {...comments} />
+        <Comments {comments} />
     </div>
 </div>
 
